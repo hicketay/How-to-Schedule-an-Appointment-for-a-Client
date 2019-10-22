@@ -1,7 +1,3 @@
----
-layout: page
-title: How to Schedule an Appointment for a Client
----
 
 # How to Schedule an Appointment for a Client
 
