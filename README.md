@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+---
+layout: page
+title: How to Schedule an Appointment for a Client
+---
 
-You can use the [editor on GitHub](https://github.com/hicketay/How-to-Schedule-an-Appointment-for-a-Client/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# How to Schedule an Appointment for a Client
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Scheduling appointments is the primary task of a Student Legal Services front desk employee. If a client has received an Appointment letter, they can call or come in to schedule one. For this process, you will be use both Maxient and the Outlook calendar feature. First, you will need to retrieve the client’s case file in Maxient in order to find:
 
-### Markdown
+- their issue type, and
+- grade classification.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This information will go into the Outlook appointment form you create which helps Leslie Charters, the primary attorney, distinguish each appointment from another.
 
-```markdown
-Syntax highlighted code block
+Follow the workflow below to schedule an appointment for a client. For a better understanding, please read the Key before beginning.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hicketay/How-to-Schedule-an-Appointment-for-a-Client/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![](https://maxienthelp.files.wordpress.com/2019/10/doc-sfd-515-hickey.jpg)
