@@ -1,8 +1,4 @@
----
-layout: page
-title: How to Schedule an Appointment for a Client
----
-
+[How to Notify a Client of Appointment Approval](https://hicketay.github.io/How-to-Notify-a-Client-of-Appointment-Approval/)         • [Home](https://hicketay.github.io/Maxient-Help/)
 # How to Schedule an Appointment for a Client
 
 Scheduling appointments is the primary task of a Student Legal Services front desk employee. If a client has received an Appointment letter, they can call or come in to schedule one. For this process, you will be use both Maxient and the Outlook calendar feature. First, you will need to retrieve the client’s case file in Maxient in order to find:
