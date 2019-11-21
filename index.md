@@ -10,4 +10,4 @@ This information will go into the Outlook appointment form you create which help
 
 Click on the link below to access the task workflow. Follow the steps to schedule an appointment for a client. For a better understanding, please click on and read each NOTE you see.
 
-[How to Schedule an Appointment for a Client Workflow](https://sway.office.com/YjoVehKqtPwGGoIT?ref=Link) 
+[How to Schedule an Appointment for a Client Workflow](https://sway.office.com/8zUwzM6gcdoyqEqN?ref=Link) 
