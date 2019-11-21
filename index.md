@@ -8,6 +8,6 @@ Scheduling appointments is the primary task for you, a Student Legal Services em
 
 This information will go into the Outlook appointment form you create which helps Leslie Charters, the primary attorney, distinguish each appointment from another.
 
-Click on the link below to access the task workflow. Follow the steps to schedule an appointment for a client. For a better understanding, please click on and read each NOTE you see.
+Click on the link below to access the task workflow. Follow the steps to schedule an appointment for a client. For a better understanding, read each NOTE you see carefully.
 
 [How to Schedule an Appointment for a Client Workflow](https://sway.office.com/8zUwzM6gcdoyqEqN?ref=Link) 
